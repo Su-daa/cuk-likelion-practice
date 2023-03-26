@@ -4,7 +4,17 @@ body {
   justify-content: center;
   align-items: center;
 }
-#alarm-time {
+#num1 {
+  width: 200px;
+  height: 25px;
+  margin-bottom: 15px;
+}
+#num2 {
+  width: 200px;
+  height: 25px;
+  margin-bottom: 15px;
+}
+#operator {
   margin-bottom: 10px;
 }
 button {
